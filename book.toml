@@ -1,0 +1,8 @@
+[book]
+authors = ["TheAlternateDoctor"]
+language = "en"
+src = "src"
+title = "Rhythm Heaven Megamix Docs"
+
+[output.html]
+theme = "nintendo-font"  
