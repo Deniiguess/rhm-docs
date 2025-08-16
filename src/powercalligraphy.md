@@ -72,6 +72,7 @@
 - 4 - Kneel
 
 ## Subs:
+*All subs except 0x72 through 0x74 are sync and must be called with* `sub`
 
 `0x56` - 力 (Page)
 
