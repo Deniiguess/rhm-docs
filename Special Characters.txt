@@ -1,0 +1,9 @@
+ - A
+ - B
+ - X
+ - Y
+ - DPAD
+ - Dpad Right
+ - Dpad Left
+ - Dpad Up
+ - Dpad Down
